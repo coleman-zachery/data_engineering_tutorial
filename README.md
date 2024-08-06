@@ -4,14 +4,14 @@ Welcome to the Data Engineering tutorial! This tutorial is designed to provide y
 
 ## Tutorial Outline
 
-### 1. [Introduction to Data Engineering]()
+### [1. Introduction to Data Engineering](1.%20Introduction%20to%20Data%20Engineering.md)
 - **Overview of Data Engineering**
   - Definition and importance
   - Key roles and responsibilities
 - **Data Engineering vs. Data Science**
   - Differences and intersections
 
-### 2. [Data Collection]()
+### [2. Data Collection](2.%20Data%20Collection.md)
 - **Understanding Data Sources**
   - Structured vs. unstructured data
   - APIs, databases, file systems
@@ -19,7 +19,7 @@ Welcome to the Data Engineering tutorial! This tutorial is designed to provide y
   - Web scraping basics
   - Using APIs for data extraction
 
-### 3. [Data Transformation and Processing]()
+### [3. Data Transformation and Processing](3.%20Data%20Transformation%20and%20Processing.md)
 - **ETL (Extract, Transform, Load)**
   - ETL vs. ELT processes
   - Tools (e.g., Apache NiFi, Talend)
@@ -31,7 +31,7 @@ Welcome to the Data Engineering tutorial! This tutorial is designed to provide y
 - **Stream Processing**
   - Real-time data processing with Apache Kafka and Flink
 
-### 4. [Data Analysis and Exploration]()
+### [4. Data Analysis and Exploration](4.%20Data%20Analysis%20and%20Exploration.md)
 - **Data Exploration Techniques**
   - Descriptive statistics
   - Visualization tools (e.g., Matplotlib, Seaborn)
@@ -114,5 +114,3 @@ To get started with the course, ensure you have the following prerequisites inst
   - Recap of key concepts and skills
 - **Capstone Project**
   - Comprehensive project to apply learned skills
-
----
